@@ -1,0 +1,12 @@
+2022-11-15 21:29:25,133 - INFO - logging_: 100 - An INFO
+2022-11-15 21:29:25,133 - WARNING - logging_: 101 - A WARNING
+2022-11-15 21:29:25,133 - ERROR - logging_: 102 - An ERROR
+2022-11-15 21:29:25,133 - CRITICAL - logging_: 103 - A message of CRITICAL severity
+2022-11-15 21:29:42,227 - INFO - photos_info: 83 - Photos info collected
+2022-11-15 21:29:42,227 - INFO - json_file: 90 - photos_info.json done
+2022-11-15 21:29:50,235 - INFO - create_folder: 63 - Folder vk is created
+2022-11-15 21:29:51,958 - INFO - upload: 50 - File 9.jpg uploaded to the directory disk%3A%2Fvk
+2022-11-15 21:29:54,203 - INFO - upload: 50 - File 10.jpg uploaded to the directory disk%3A%2Fvk
+2022-11-15 21:29:55,771 - INFO - upload: 50 - File 6.jpg uploaded to the directory disk%3A%2Fvk
+2022-11-15 21:29:57,190 - INFO - upload: 50 - File 1.jpg uploaded to the directory disk%3A%2Fvk
+2022-11-15 21:29:58,751 - INFO - upload: 50 - File 1 2018-03-27.jpg uploaded to the directory disk%3A%2Fvk
